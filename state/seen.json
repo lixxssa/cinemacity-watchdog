@@ -1,27 +1,6 @@
 {
- "updated": "2026-08-11T13:25:55",
+ "updated": "2026-08-11T17:11:50",
  "events": {
-  "224123": {
-   "id": "224123",
-   "film": "Odyssea",
-   "filmLink": "https://www.cinemacity.cz/films/odyssea/7268s2r",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-08-11T16:40:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "15-plus",
-    "2d",
-    "70-mm",
-    "drama",
-    "first-subbed-lang-cs",
-    "history",
-    "original-lang-en",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/224123",
-   "soldOut": false
-  },
   "224124": {
    "id": "224124",
    "film": "Odyssea",
