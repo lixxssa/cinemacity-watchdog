@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T13:36:18",
+ "updated": "2026-08-13T18:06:22",
  "events": {
   "224482": {
    "id": "224482",
@@ -757,27 +757,6 @@
    "booking": "https://tickets.cinemacity.cz/order/224517",
    "soldOut": false
   },
-  "224518": {
-   "id": "224518",
-   "film": "Odyssea",
-   "filmLink": "https://www.cinemacity.cz/films/odyssea/7268s2r",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-08-22T20:30:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "15-plus",
-    "2d",
-    "70-mm",
-    "drama",
-    "first-subbed-lang-cs",
-    "history",
-    "original-lang-en",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/224518",
-   "soldOut": false
-  },
   "224519": {
    "id": "224519",
    "film": "Odyssea",
@@ -923,27 +902,6 @@
     "subbed"
    ],
    "booking": "https://tickets.cinemacity.cz/order/224525",
-   "soldOut": false
-  },
-  "224526": {
-   "id": "224526",
-   "film": "Odyssea",
-   "filmLink": "https://www.cinemacity.cz/films/odyssea/7268s2r",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-08-24T20:30:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "15-plus",
-    "2d",
-    "70-mm",
-    "drama",
-    "first-subbed-lang-cs",
-    "history",
-    "original-lang-en",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/224526",
    "soldOut": false
   },
   "233304": {
@@ -1553,27 +1511,6 @@
     "subbed"
    ],
    "booking": "https://tickets.cinemacity.cz/order/233332",
-   "soldOut": false
-  },
-  "233333": {
-   "id": "233333",
-   "film": "Odyssea",
-   "filmLink": "https://www.cinemacity.cz/films/odyssea/7268s2r",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-09-01T20:30:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "15-plus",
-    "2d",
-    "70-mm",
-    "drama",
-    "first-subbed-lang-cs",
-    "history",
-    "original-lang-en",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/233333",
    "soldOut": false
   },
   "233334": {
